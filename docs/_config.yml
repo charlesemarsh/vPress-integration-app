@@ -21,6 +21,8 @@
 title: Vpress & Shopify integration app
 email: charlesemarsh@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+  Shopify App to integrate Vpress with your store. Easy to install and customisations available on request.
+baseurl:
 twitter_username: jekyllrb
 github_username:  charlesemarsh
 github: [metadata]
