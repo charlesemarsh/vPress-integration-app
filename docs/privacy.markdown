@@ -7,7 +7,7 @@ permalink: /privacy/
 
 **1. Introduction** 
 
-Welcome to [Your App Name] (the "App"). This Privacy Policy explains how [Your Company Name] ("we," "us," "our") collects, uses, and discloses information about you when you use our App on Shopify (the "Platform").
+Welcome to Vpress integration app (the "App"). This Privacy Policy explains how ("we," "us," "our") collects, uses, and discloses information about you when you use our App on Shopify (the "Platform").
 
 **2. Information We Collect** 
 
